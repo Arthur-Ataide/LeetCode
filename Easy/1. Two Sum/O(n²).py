@@ -1,5 +1,6 @@
-from typing import List
+#Array / Hash Table
 
+from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
