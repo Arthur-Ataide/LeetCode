@@ -43,11 +43,13 @@ Para manter o repositório organizado e o progresso bem documentado, seguimos es
 - **Atividade**: Breve descrição das atividades realizadas.
 - **Função**: Principais funções ou conceitos aprendidos.
 - **Opinião**: Impressão pessoal sobre o nível de dificuldade da questão.
+- **Descrição**: Impressão pessoal da questão em geral.
 
 Exemplo de commit:
 
 ```
-Atividade: Resolução da questão X; Função: Novas que foram aprendidas; Opinião: Nível intermediário, desafiador no início.
+Atividade: Resolução da questão X; Função: Novas que foram aprendidas; Opinião: Dificil.
+Descrição: Consrgui resolver facilmente a logica, mas a implementação foi dificil
 ```
 
 ### Dias de maratona
