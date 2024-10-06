@@ -22,7 +22,7 @@ Este repositório foi criado com o objetivo de aprimorar habilidades de programa
   - Após esse período, reunimos para discutir as soluções, compartilhar abordagens e aprender com os erros.
 
 ## 📅 Contador de Dias Consecutivos
-- **Dias consecutivos de resolução no LeetCode**: 4 dias
+- **Dias consecutivos de resolução no LeetCode**: 5 dias
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python**: Linguagem principal para resolver problemas do LeetCode.
@@ -49,7 +49,7 @@ Exemplo de commit:
 
 ```
 Atividade: Resolução da questão X; Função: Novas que foram aprendidas; Opinião: Dificil.
-Descrição: Consrgui resolver facilmente a logica, mas a implementação foi dificil
+Descrição: Consegui resolver facilmente a lógica, mas a implementação foi dificil
 ```
 
 ### Dias de maratona
