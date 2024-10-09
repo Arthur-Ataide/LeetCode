@@ -22,7 +22,7 @@ Este repositório foi criado com o objetivo de aprimorar habilidades de programa
   - Após esse período, reunimos para discutir as soluções, compartilhar abordagens e aprender com os erros.
 
 ## 📅 Contador de Dias Consecutivos
-- **Dias consecutivos de resolução no LeetCode**: 1 dias
+- **Dias consecutivos de resolução no LeetCode**: 8 dias
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python**: Linguagem principal para resolver problemas do LeetCode.
